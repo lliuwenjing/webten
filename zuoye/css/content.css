@@ -1,0 +1,165 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.header{
+	width:100%;
+	height:auto;
+	margin:auto;
+}
+.headerlogo{
+	width:1000px;
+	height:100px;
+	margin:0 auto;
+	padding-left: 25px;
+	line-height: 100px;
+	 
+}
+.headerlogo .img{
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	padding-top: 15px;
+	float: left;
+	margin-right: 100px;
+}
+.heaaderlogo form{
+	float: left;
+}
+.headerlogo form select{
+	width:100px;
+	height:20px;
+}
+.headerlogo form input{
+	width:300px;
+	height:20px;
+}
+.headernav{
+	width:100%;
+	height:30px;
+	background-color: #cfb53b;
+}
+.headernav ul{
+	width:1000px;
+	margin: 0px auto;
+	padding-left: 25px;
+	list-style: none;
+
+
+}
+.headernav li{
+	float:left;
+	
+	line-height: 30px;
+
+
+}
+.headernav li a{
+
+	text-decoration: none;
+	color:#fff;
+}
+.headernav li a:hover{
+	color:#f61;
+}
+.headerbanner img{
+	width:100%;
+	height:auto;
+}
+.bao{
+	padding-left: 130px;
+}
+.bao a{
+	font-size: 10px;
+	text-decoration: none;
+	color:#333;
+}
+
+.content{
+	width:1000px;
+	height:auto;
+	margin:0 auto;
+}
+.biao{
+	clear:left;
+	width:100px;
+	height:30px;
+	margin-left:11px;
+	background-color: #750000;
+	line-height:30px;
+	text-align:center;
+	border-radius: 4px;
+	color:#ffd306;
+} 
+.content .left{
+	width:200px;
+	height:150px;
+	margin:10px;
+	border: 1px solid #600; 
+	float:left;
+	text-align:center;
+}
+.content .right{
+	width:500px;
+	height:150px;
+	margin:10px;
+	border: 1px solid #600; 
+	
+	float:left;
+}
+.last{
+	width:200px;
+	height:150px;
+	margin:10px;
+	/*border: 1px solid #600;*/ 
+	/*background: url("../images/tim3.jpg") no-repeat;*/
+	float:left;
+}
+.right p{
+	font-size: 16px; 
+	text-indent: 2em;
+	line-height:32px;
+}
+.right img{
+
+}
+.foot{
+	width:100%;
+	height:auto;
+	margin:auto;
+	clear:left;
+}
+.footer{
+	width: 1000px;
+	text-align: center;
+	/*padding-left: px;*/
+}
+.footer ul{
+	width:700px;
+	margin: 0px auto;
+	padding-left: 340px;
+	list-style: none;
+}
+.footer ul li{
+	float:left;
+	width:100px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 16px;
+	color:#666;
+}
+.line{
+	clear: left;
+	display: block;
+	width: 1000px;
+	margin-top:10px;
+}
+.line img{
+	padding-left: 400px;
+	margin:0 auto;
+}
+.foot p{
+	text-align: center;
+	font-size: 16px;
+	color:#666;
+}
